@@ -1,1 +1,1 @@
-# .github
+The project aims to enable seamless integration between existing systems and the Web3 ecosystem by providing a decentralized infrastructure that can connect to any data source and support any data format. This infrastructure will leverage blockchain technology to enable secure and transparent transactions, while also providing decentralized storage for data availability and durability.
